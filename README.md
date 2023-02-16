@@ -1,8 +1,8 @@
 ## Hi there 👋
 #### Languages
 
-![](https://img.shields.io/badge/-Js-61DAFB?logo=react&logoColor=white&style=plastic)
-![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/JavaScript-Language-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TypeScript-Dialect-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
 
 #### ID
 ![](https://img.shields.io/badge/-vs%20coder-informational?style=flat-square&logo=webstorm&logoColor=white&color=2bbc8a)
