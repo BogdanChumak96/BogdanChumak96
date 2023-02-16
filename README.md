@@ -22,3 +22,5 @@
 ![](https://img.shields.io/badge/Strapi-CRM-informational?style=flat-square&logo=strapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GraphQL-API-informational?style=flat-square&logo=graphql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Apollo-API-informational?style=flat-square&logo=apollographql&logoColor=white&color=2bbc8a)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
