@@ -32,4 +32,4 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 [codewars.com](https://www.codewars.com/).
-[![Profile badge](https://www.codewars.com/users/hugmanrique/badges/large)](https://www.codewars.com/users/BogdanChumak)
+[![Profile badge](https://www.codewars.com/users/BogdanChumak/badges/large)](https://www.codewars.com/users/BogdanChumak)
